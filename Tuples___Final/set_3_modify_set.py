@@ -1,7 +1,0 @@
-s = set()
-s.update(["John", "Alice", "Bob", "Daisy", "Eve"])
-s.discard("Alice")
-s.add("Alicia")
-s.discard("John")
-s.discard("Bob")
-print(s)
